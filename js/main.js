@@ -15,3 +15,8 @@ if (5 <= 10) {
 	console.log('You will see this')
 }
 
+if (5 > 20) {
+	console.log('test returns false')
+} else {
+	console.log('we ended up in our else statement')
+}
